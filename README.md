@@ -22,7 +22,7 @@ The executable code can be ran from the main.ipynb notebook.
 
 Python 3.x and all "classic" packages: numpy, matplotlib etc.
 
-## The main points in this notebook are**
+## The main points in this notebook are
 
 1. Selection of relevant variables based on statistical tools
 2. The model used is a XGBOOST: The recall for Class 1 is 97% on the training set and 89% on the test set.
